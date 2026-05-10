@@ -5,5 +5,19 @@
         <link>https://raw.githubusercontent.com/hhaslam11/trace-dashcam-viewer-releases/main/appcast.xml</link>
         <description>Updates for Trace Dashcam Viewer</description>
         <language>en</language>
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Sun, 10 May 2026 01:24:31 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>Trace Dashcam Viewer 0.1.0</h2>
+<ul>
+  <li>Initial beta release</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/hhaslam11/trace-dashcam-viewer-releases/releases/download/v0.1.0/Trace-Dashcam-Viewer-0.1.0.dmg" length="3766806" type="application/octet-stream" sparkle:edSignature="3dOkO+Wq2DOn1Fj96OehVrwozDS516VHddOfINTWanLIZ9oyOPNSL1elW9JS8xcF3fM4jopmCx4EoKXQz2VrBw=="/>
+        </item>
     </channel>
 </rss>
