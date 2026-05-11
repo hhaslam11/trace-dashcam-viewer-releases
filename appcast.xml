@@ -33,5 +33,19 @@
             ]]></description>
             <enclosure url="https://github.com/hhaslam11/trace-dashcam-viewer-releases/releases/download/v0.1.1/Trace-Dashcam-Viewer.dmg" length="3766806" type="application/octet-stream" sparkle:edSignature="cKaKkLPOJzfEX0FrbHgBeJ+JwLs8AjgFLMQVABgVjQzYXSvRW/Xh+X0614AJbC8QN1xpDSreEqKsALTT4h3DCQ=="/>
         </item>
+        <item>
+            <title>Version 0.2.0</title>
+            <pubDate>Mon, 11 May 2026 08:28:43 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>Trace Dashcam Viewer 0.2.0</h2>
+<ul>
+  <li>Add Tesla SEI telemetry: live HUD with speed, turn signals, acceleration, and steering info</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/hhaslam11/trace-dashcam-viewer-releases/releases/download/v0.2.0/Trace-Dashcam-Viewer.dmg" length="3902476" type="application/octet-stream" sparkle:edSignature="LFeA/FyTa4aCsF8GugnJlezHIcCsL7osjdyC/M1zVhCJtGBW9QI6zoK36MuTAcBjQIRtsAoxD4qq/bW7MXnuAA=="/>
+        </item>
     </channel>
 </rss>
