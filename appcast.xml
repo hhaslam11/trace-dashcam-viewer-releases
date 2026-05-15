@@ -61,5 +61,19 @@
             ]]></description>
             <enclosure url="https://github.com/hhaslam11/trace-dashcam-viewer-releases/releases/download/v0.2.1/Trace-Dashcam-Viewer.dmg" length="3927399" type="application/octet-stream" sparkle:edSignature="CUrqMfI7n9Ul7IP2qs2xODwSKU/vPYkWhDHZy/k9cArNNZye5rxsD3E+5Iq1xPXB8IZxvBozKrJmppacDggZBA=="/>
         </item>
+        <item>
+            <title>Version 0.2.2</title>
+            <pubDate>Fri, 15 May 2026 05:35:19 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>Trace Dashcam Viewer 0.2.2</h2>
+<ul>
+  <li>Polish map view: native palette, glass clusters, lazy sidebar</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/hhaslam11/trace-dashcam-viewer-releases/releases/download/v0.2.2/Trace-Dashcam-Viewer.dmg" length="3928315" type="application/octet-stream" sparkle:edSignature="1vK6U4GiQ43vaobinCS+p8LsfREXNAatvRWf7ZsWhIDOPagDdV5x+PAYD3yKAvoNN3cCvW80nvsB8Wm/WprmCw=="/>
+        </item>
     </channel>
 </rss>
